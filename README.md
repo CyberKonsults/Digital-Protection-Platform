@@ -1,2 +1,2 @@
 # DigitalProtectionPlatform
-DigitalProtectionPlatform
+Digital-Protection-Platform
