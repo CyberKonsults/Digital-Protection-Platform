@@ -1,0 +1,24 @@
+{
+  "name": "cyberkonsults-ai-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@next-auth/supabase-adapter": "^0.2.1",
+    "@supabase/supabase-js": "^2.0.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.1",
+    "next-auth": "^4.24.11",
+    "pg": "^8.15.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.4"
+  }
+}
