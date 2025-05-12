@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"Makayla",
+			"Taiwo"
+		],
+		"projectManager.git.baseFolders": [
+			""
+		]
+	}
 }
